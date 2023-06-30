@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I'm Kaviyarasu S. <br>👨🏻‍🎓 I am currently pursuing my Bachelor's degree in Computer Science Engineering and I am in the final year of my program.<br>🧑🏻‍💻 I'm currently learning Python.<br>📖 Quick learner and Easily adopt new environment.<br>👷🏻‍♂️ Ready to work in any environment.<br>🛜 Interest to work in the field of frontend development.<br>📫 You can reach me via [ kaviyarasu6666@gmail.com (or) www.linkedin.com/in/kaviyarasu-s-12542625 ].
+Hello! 👋 I'm Kaviyarasu S. <br>👨🏻‍🎓 I am currently pursuing my Bachelor's degree in Computer Science Engineering and I am in the final year of my program.<br>🧑🏻‍💻 I'm currently learning Python.<br>📖 Quick learner and Easily adopt new environment.<br>👷🏻‍♂️ Ready to work in any environment.<br>📫 You can reach me via [ kaviyarasu6666@gmail.com (or) www.linkedin.com/in/kaviyarasu-s-12542625 ].
 
 
 # 💻 Tech Stack:
